@@ -3,6 +3,7 @@
 
 
 WEEK 1 — Arrays + Basic Strings
+
 Day 1: Array Basics
 
 1. Two Sum
