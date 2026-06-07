@@ -90,27 +90,39 @@ Else, a message displaying, “Oops, you are allowed to take only adult Fiction 
 displayed in the console.
 6. Create a class “LibraryInterfaceDemo.java” with a main method which performs the below
 functions,
+
 Test case #1:
+
 Create an instance of KidUser class.
+
 Set the age as specified in the below table and invoke the registerAccount method of the
 KidUser object
+
 Age
 10
 18
+
 Set the book Type as specified in the below table and invoke the requestBook method of the
 KidUser object,
+
 BookType
 “Kids”
 “Fiction”
+
 Test case #2:
+
 Create an instance of AdultUser class.
+
 Set the age as specified in the below table and invoke the registerAccount method of the
 AdultUser object
+
 Age
 5
 23
+
 Set the book Type as specified in the below table and invoke the requestBook method of the
 AdultUser object
+
 BookType
 “Kids”
 “Fiction”
