@@ -1,6 +1,6 @@
 package Week_2.day_1;
 
-public class Firstuniquecharacter {
+public class firstunqch {
     public int firstUniqChar(String s) {
         int[] arr = new int[26];
         
